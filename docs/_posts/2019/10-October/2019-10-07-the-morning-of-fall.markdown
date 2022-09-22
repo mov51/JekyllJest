@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "The Morning of Fall"
+date:   2019-10-07 08:53:00 -0400
+categories: [Abstract]
+---
+The very air reeks of rotting stone
+in between tar and decrepit home
+The heat but a memory lost and thrown
+Every breath of wind a has a mind of its own
+
+Watching the sun break the clouds
+Every step pushed back by the slick ground
+Fleeing the world as pinkish light surrounds
+Feeling the sun warm the air and open new sounds
+
+Swirling wind pushes every sense of mine
+A war between body and frame of mind
+The cold defined with the freedom on the line
+Lift me up, cary me worries through time
+
+Shattered leaves and broken branches
+Coated in water all hopeless and senseless
+Their beauty on the ground amongst the fences
+Weighed down by rain awaiting the first fungus
+
+Every breath tastes of the coming ice
+A reminder the world hides its face
+A season apart but still showing grace
+Winters coming, a fearsome race
