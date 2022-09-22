@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Mandates: Introduction"
-date: 2019-10-01 01:35:00 -0400
+title:  "The Mandates: Introduction"
+date:   2019-10-01 08:00:00 -0400
 categories: [The Mandates]
 ---
 

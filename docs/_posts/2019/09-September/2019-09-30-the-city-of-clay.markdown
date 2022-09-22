@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The City of Clay"
-date:   2019-09-30 03:50:00 -0400
+date:   2019-09-30 13:35:00 -0400
 categories: [abstract]
 ---
 The grand scale of such a place

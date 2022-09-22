@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Tears of salt"
-date: 2019-10-02 08:00:00 -0400
+title:  "Tears of salt"
+date:   2019-10-02 12:00:00 -0400
 categories: [Abstract]
 ---
 Sweat these tears of salt
