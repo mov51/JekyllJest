@@ -2,15 +2,19 @@
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
     <div class="wrapper">
-  
+      
+      {%- if site.github_repo -%}
+      <h2 class="footer-heading"><a href="{{ site.github_repo | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>{{ site.title | escape }}</a></h2>
+      {%- else -%}
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
-  
+      {%- endif -%}
+
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
             <li class="p-name">
-              {%- if site.author -%}
-                {{ site.author | escape }}
+              {%- if site.site_author -%}
+                {{ site.site_author | escape }}
               {%- else -%}
                 {{ site.title | escape }}
               {%- endif -%}
@@ -30,8 +34,8 @@
           <p>{{- site.description | escape -}}</p>
         </div>
       </div>
-  
+      
     </div>
-  
+    
   </footer>
   

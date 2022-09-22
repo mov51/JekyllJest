@@ -18,15 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#Site-Wide
 title: naspen.net
 email: mov51@naspen.net
+site_author: "Natalie Aspen Trinket"
+github_repo:  "https://github.com/theAspenGrove/JekyllJest"
 description: >- # this means to ignore newlines until "baseurl:"
   A place for my collections of lost things, trinkets, memories, and notes. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://test.naspen.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mov51
 github_username:  mov51
-github_repo:  "https://github.com/theAspenGrove/JekyllJest"
+youtube_username: mov51
 
 # Build settings
 theme: minima
