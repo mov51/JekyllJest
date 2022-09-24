@@ -3,6 +3,7 @@ layout: post
 title:  "The Mandates: Introduction"
 date:   2019-10-01 08:00:00 -0400
 categories: [The Mandates]
+author: mov51
 ---
 
 The story

@@ -3,6 +3,7 @@ layout: post
 title:  "The Metal Daisy"
 date:   2019-10-31 12-00 -0400
 categories: [Abstract]
+author: mov51
 ---
 Sunshine on a metal daisy  
 A pure form of life gone crazy  

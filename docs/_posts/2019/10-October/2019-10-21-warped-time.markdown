@@ -3,6 +3,7 @@ layout: post
 title:  "Warped Time"
 date:   2019-10-21 07-50 -0400
 categories: [Abstract, MindStyle]
+author: mov51
 ---
 Warping moments surround my days  
 an hour lost to seconds in haze  

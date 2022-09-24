@@ -3,6 +3,7 @@ layout: post
 title:  "The World Reeks"
 date:   2020-01-14 04-02 -0400
 categories: [Abstract, MindStyle]
+author: mov51
 ---
 The world reeks of beautiful waste  
 Of stories told with volatile taste  

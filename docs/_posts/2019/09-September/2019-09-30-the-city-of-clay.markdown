@@ -2,7 +2,8 @@
 layout: post
 title:  "The City of Clay"
 date:   2019-09-30 13:35:00 -0400
-categories: [abstract]
+categories: [Abstract]
+author: mov51
 ---
 The grand scale of such a place
 Echos racing across this vast space

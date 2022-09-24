@@ -3,6 +3,7 @@ layout: post
 title:  "Burning Man"
 date:   2019-10-26 12-00 -0400
 categories: [Abstract]
+author: mov51
 ---
 A burning man feels no pain, only fire
 Pain has no meaning to those consumed

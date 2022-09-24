@@ -3,6 +3,7 @@ layout: post
 title:  "A Passion for Simple Knowledge"
 date:   2019-09-30 21:09:00 -0400
 categories: [The World Screams]
+author: mov51
 ---
 Through me, the world screams.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Traverse"
 date:   2020-01-29 08-41 -0400
 categories: [Abstract, MindStyle]
+author: mov51
 ---
 Traverse the lands brink  
 Across every world link  

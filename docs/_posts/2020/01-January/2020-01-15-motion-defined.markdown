@@ -3,6 +3,7 @@ layout: post
 title:  "Motion Defined"
 date:   2020-01-15 04-53 -0400
 categories: [Abstract, MindStyle]
+author: mov51
 ---
 Find me motion defined  
 A motion that shows its mind  
