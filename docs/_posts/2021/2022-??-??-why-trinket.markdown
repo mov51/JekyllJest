@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Trinket?"
-date:   2020-??-?? ??-?? -0400
+date:   2020-09-26 9:20-00 -0400
 categories: [MindStyle]
 author: Natalie Aspen Trinket
 ---
