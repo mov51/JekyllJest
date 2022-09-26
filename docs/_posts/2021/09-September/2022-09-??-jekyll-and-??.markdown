@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Jekyll and ??"
+date:   2022-09-?? ??:??-?? -0400
+categories: [MindStyle]
+author: Natalie Aspen Trinket
+---
+I was reading The Strange Case of Dr. Jekyll and Mr. Hyde in June and found that I related to the idea of bifurcating yourself and neglecting one half, only to be forced to face it later in life. I don't doubt in the slightest that people far smarter than me have gone over this part of the book in much greater detail, but I wanted to write about it myself anyway. The book starts off by outlining what Mr. Hyde does from an outsiders perspective and Dr. Jekyll's account starts with something that hits very close to home for me.  
+> Others will follow, others will outstrip me on the same lines; and I hazard a guess that man will ultimately be known for a mere polity of multifarious, incongruous and independent denizens. I, for my part, from the nature of my life, advanced infallibly in one direction and in one direction only.  
+The idea that people exists as a group of themselves isn't really anything unique, particularly in modern media. But in this case, the idea of separating yourself from all but one or two of those selves and then releasing and confronting the most contrary of them is something I can currently relate to. I spent so long putting up a face of not being transgender, that I relate to Dr. Jekyll and even Mr. Hyde. I have no idea what's me or what's my Hyde anymore, though I guess in my case I think it's better to think of the face I've been putting up as my Hyde and the neglected half that knew about being trans as my Jekyll, but trying to name each half instead of describing the effects might get confusing.  
+
+Regardless, neglecting one half of myself has left me in the same position as Hyde was. A shriveled husk of a person. I want to have that aspect of myself back, but I've been strangling it for over half my life and given it no room to grow, I've built my existing mind around the idea of never trusting it and removed anything that would feed it from my life. I need to learn to trust myself again, and learn how to feed it. Jekyll had the benefit of being a new person when he became Hyde, and in all honesty I'd imagine that the unrestricted access to Hyde's desires changed Hyde more than just being neglected for so many years. In my case I'm still me, and whatever I feed my neglected half will be what I build myself on. 
