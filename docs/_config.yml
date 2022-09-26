@@ -32,6 +32,7 @@ github_username:  mov51
 youtube_username: mov51
 
 # Build settings
+google_analytics: UA-136955660-2
 theme: minima
 plugins:
   - jekyll-feed
