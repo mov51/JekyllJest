@@ -14,4 +14,4 @@ I'm currently in the process of transitioning Male to Female and work as a Help 
 
 ---
 
-I've been an avid Minecrafter for about 8 years and have never gone more than a month without playing since creating my account. More often than not I've played every day. Minecraft itself makes up one of my biggest interests and most of my projects are related to it. I have a post about why Minecraft interests me so much it [here]({% post_url 2019-10-10-my-minecraft-adiction %}).
+I've been an avid Minecrafter for about 8 years and have never gone more than a month without playing since creating my account. More often than not I've played every day. Minecraft itself makes up one of my biggest interests and most of my projects are related to it. I have a post about why Minecraft interests me so much it [here]({% post_url 2019/10-October/2019-10-10-my-minecraft-adiction %}).
