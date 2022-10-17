@@ -2,6 +2,7 @@
 layout: post
 title:  "In Different Tones"
 date:   2019-10-28 12-00 -0400
+hrt_date: -696
 categories: [MindStyle, The World Screams]
 author: mov51
 ---

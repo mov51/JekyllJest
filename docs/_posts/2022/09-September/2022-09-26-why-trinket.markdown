@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Trinket?"
 date:   2022-09-26 9:20-00 -0400
+hrt_date: 368
 categories: [MindStyle]
 author: Natalie Aspen Trinket
 ---

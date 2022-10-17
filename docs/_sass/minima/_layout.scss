@@ -238,6 +238,10 @@ a.post-item{
       font-weight: bold;
       font-size: $large-font-size;
     }
+    &.post-meta-hrt-date{
+      font-weight: bold;
+      font-size: $base-font-size;
+    }
   }
   &:hover{
     $hexagon-trim-highlight: $green-color;

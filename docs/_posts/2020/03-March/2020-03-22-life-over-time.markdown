@@ -2,7 +2,9 @@
 layout: post
 title:  "Life Over Time"
 date:   2020-03-22 02-30 -0400
+hrt_date: -550
 categories: [Abstract]
+author: mov51
 ---
 Future defined in shock -- Minds all but lost  
 Escaping it’s tiny case -- Defining their own shape  

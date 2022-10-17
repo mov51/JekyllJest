@@ -2,6 +2,7 @@
 layout: post
 title:  "A Changing Mind"
 date:   2019-11-02 12-00 -0400
+hrt_date: -691
 categories: [MindStyle]
 author: mov51
 ---

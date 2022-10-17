@@ -2,7 +2,9 @@
 layout: post
 title:  "Fire of Man"
 date:   2020-03-20 23-36 -0400
+hrt_date: -552
 categories: [Abstract]
+author: mov51
 ---
 A burning maxim defined  
 The fire behind clouded eyes  

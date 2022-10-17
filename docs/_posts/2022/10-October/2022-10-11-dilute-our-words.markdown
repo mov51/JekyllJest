@@ -2,6 +2,7 @@
 layout: post
 title:  "Dilute Our Words"
 date:   2022-10-11 15:15-00 -0400
+hrt_date: 383
 categories: [Abstract]
 author: Natalie Aspen Trinket
 ---

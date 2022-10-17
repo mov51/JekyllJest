@@ -2,6 +2,7 @@
 layout: post
 title:  "Burning Man"
 date:   2019-10-26 12-00 -0400
+hrt_date: -698
 categories: [Abstract]
 author: mov51
 ---
