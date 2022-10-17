@@ -2,6 +2,7 @@
 layout: post
 title:  "The Morning of Fall"
 date:   2019-10-07 08:53:00 -0400
+hrt_date: -717
 categories: [Abstract]
 author: mov51
 ---

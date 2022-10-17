@@ -2,6 +2,7 @@
 layout: post
 title:  "of Motion and Meaning"
 date:   2019-10-05 08:00:00 -0400
+hrt_date: -719
 categories: [The World Screams]
 author: mov51
 ---

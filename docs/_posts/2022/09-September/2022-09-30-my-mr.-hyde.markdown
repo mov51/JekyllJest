@@ -2,6 +2,7 @@
 layout: post
 title:  "My Mr. Hyde"
 date:   2022-09-30 00:50-00 -0400
+hrt_date: 372
 categories: [MindStyle]
 author: Natalie Aspen Trinket
 ---

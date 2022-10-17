@@ -29,13 +29,16 @@ layout: default
         <div><span class="post-title">  
           {{ post.title | escape }}
         </span><br/>
-        <span class="post-meta-date post-meta">{{ post.date | date: date_format }}</span>
+        {% unless post.date == empty %}
+          <span class="post-meta-date post-meta">{{ post.date | date: date_format }}</span>
+          <span class="post-meta-date post-meta-hrt-date post-meta"> {{ post.hrt_date}} </span>
+          <span class="seperator">|</span>
+        {% endunless %}
         {% unless post.author == empty %}
-        <span class="seperator">|</span>
-        <span class="post-meta-author post-meta">{{ post.author }}</span>
+          <span class="post-meta-author post-meta">{{ post.author }}</span>
+          <span class="seperator">|</span>
         {% endunless %}
         {% unless post.categories == empty %}
-          <span class="seperator">|</span>
           <span class="post-meta-categories post-meta"> 
             {%- for category in post.categories -%}
               {{category}},

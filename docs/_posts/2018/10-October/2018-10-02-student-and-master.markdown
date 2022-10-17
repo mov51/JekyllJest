@@ -2,6 +2,7 @@
 layout: post
 title:  "Student and Master"
 date:   2018-10-02 21:41:00 -0400
+hrt_date: -1087
 categories: [The Mandates]
 author: mov51
 ---

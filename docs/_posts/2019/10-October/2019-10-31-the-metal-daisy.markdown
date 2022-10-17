@@ -2,6 +2,7 @@
 layout: post
 title:  "The Metal Daisy"
 date:   2019-10-31 12-00 -0400
+hrt_date: -693
 categories: [Abstract]
 author: mov51
 ---

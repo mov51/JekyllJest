@@ -2,7 +2,9 @@
 layout: post
 title:  "The first brothers (lore concept)"
 date:   2020-03-23 02-32 -0400
+hrt_date: -549
 categories: [The Mandates]
+author: mov51
 ---
 There was a time in the past, a time where location was nonsense and the allpowerfull had not yet been forged. In this abstract place when time never changed a spark hotter than any that will ever exist made itself. That spark had been on a quest to forge a world of beauty and free will, things that had been long lost in it’s home. From that spark grew two beings, entities of creation whose definitions did not yet exist, by today’s words they were the first brothers.
 

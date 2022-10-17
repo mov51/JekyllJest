@@ -2,6 +2,7 @@
 layout: post
 title:  "Learning a New Skill"
 date:   2019-10-25 08-00 -0400
+hrt_date: -699
 categories: [MindStyle]
 author: mov51
 ---

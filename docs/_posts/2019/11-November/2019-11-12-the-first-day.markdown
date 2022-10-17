@@ -2,6 +2,7 @@
 layout: post
 title:  "The First Day"
 date:   2019-11-12 12-00 -0400
+hrt_date: -681
 categories: [The Mandates]
 author: mov51
 ---

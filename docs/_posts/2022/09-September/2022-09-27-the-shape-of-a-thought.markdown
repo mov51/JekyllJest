@@ -2,6 +2,7 @@
 layout: post
 title:  "The Shape of a Thought"
 date:   2022-09-27 22:10-00 -0400
+hrt_date: 369
 categories: [MindStyle,The World Screams]
 author: Natalie Aspen Trinket
 ---
