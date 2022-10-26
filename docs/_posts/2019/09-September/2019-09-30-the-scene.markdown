@@ -3,7 +3,7 @@ layout: post
 title: "The Scene"
 date: 2019-09-30 03:50:00 -0400
 hrt_date: -724
-categories: [The World Screams]
+categories: [TheWorldScreams]
 author: mov51
 ---
 

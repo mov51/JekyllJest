@@ -3,7 +3,7 @@ layout: post
 title:  "Student and Master"
 date:   2018-10-02 21:41:00 -0400
 hrt_date: -1087
-categories: [The Mandates]
+categories: [TheMandates]
 author: mov51
 ---
 I wrote this all the way back in 2018, before I had a blog, and decided to publish it now because it came up as possibly relevent in a conversation with my brother. In any case, wether relevent or not, it is a story that I'm proud of. The formatting is awful, and I could do a lot better in describing minor actions and feelings, but it was a start for me.  

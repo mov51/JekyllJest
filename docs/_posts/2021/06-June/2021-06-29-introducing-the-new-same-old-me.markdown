@@ -2,8 +2,8 @@
 layout: post
 title:  "Introducing the Same Old Me"
 date:   2021-06-29 09-44 -0400
-hrt_date: -644
-categories: [The World Screams, With My Voice]
+hrt_date: -451
+categories: [TheWorldScreams, WithMyVoice]
 author: Natalie
 ---
 This is a topic that means a lot to me so I’ll be keeping it pinned to the top of my blog, and it would mean even more if you’d be willing to read what I have to say.

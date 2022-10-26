@@ -3,7 +3,7 @@ layout: post
 title:  "The Mandates: Introduction"
 date:   2019-10-01 08:00:00 -0400
 hrt_date: -723
-categories: [The Mandates]
+categories: [TheMandates]
 author: mov51
 ---
 

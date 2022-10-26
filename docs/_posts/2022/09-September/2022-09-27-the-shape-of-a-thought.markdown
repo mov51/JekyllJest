@@ -3,7 +3,7 @@ layout: post
 title:  "The Shape of a Thought"
 date:   2022-09-27 22:10-00 -0400
 hrt_date: 369
-categories: [MindStyle,The World Screams]
+categories: [MindStyle, TheWorldScreams]
 author: Natalie Aspen Trinket
 ---
 It feels really weird to talk about this because some of the things I mention are tropes in TV shows, Books, or Movies that I relate to, and I'd imagine that's because I can't really know how other people order their thoughts unless we talk about it. The issue being that the topic of how we think isn't very common, but it *is* something I seek out in the media I consume. Some more of the discomfort comes from the fact that if I try to find others talking about it online, the search results are overtaken by discussions of the media it was mentioned in instead of people who also feel the same way, or even just find that way of thinking interesting.  

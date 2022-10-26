@@ -3,7 +3,7 @@ layout: post
 title:  "Stitch and Remix"
 date:   2020-02-04 08-00 -0400
 hrt_date: -597
-categories: Abstract
+categories: [Abstract]
 author: mov51
 ---
 Stitch and remix  

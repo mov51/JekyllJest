@@ -3,7 +3,7 @@ layout: post
 title:  "A Taste of Heat"
 date:   2019-10-16 08:00:00 -0400
 hrt_date: -708
-categories: [The World Screams]
+categories: [TheWorldScreams]
 author: mov51
 ---
 
