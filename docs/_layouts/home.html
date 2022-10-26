@@ -41,7 +41,7 @@ layout: default
         {% unless post.categories == empty %}
           <span class="post-meta-categories post-meta"> 
             {%- for category in post.categories -%}
-              {{category}},
+              #{{category}}
             {% endfor %}
           </span>
         {% endunless %}
