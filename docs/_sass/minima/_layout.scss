@@ -282,6 +282,9 @@ a.post-item{
 
 .post-title {
   @include relative-font-size(2.625);
+  &.small{
+    @include relative-font-size(1.5);
+  }
   letter-spacing: -1px;
   line-height: 1;
 

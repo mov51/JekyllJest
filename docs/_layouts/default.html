@@ -2,14 +2,57 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-
   <body>
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+      <div class="wrapper page">
+        <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-6">
+            {{ content }}
+          </div>
+          <div class="col-md-3">
+            {% if page.layout == 'post' %}      
+              <div class="related">
+                <h3>Related Posts</h3>
+                {% assign firstCategory = page.categories | first %}
+                {% assign relatedCount = 0 %}
+                {% for related in site.categories[firstCategory] %}
+                    {% unless page.permalink == related.permalink %}
+                        {% assign relatedCount = relatedCount | plus: 1 %}
+                        <ul class="post-list">
+                            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                            <li>
+                              <a href="{{ related.url | relative_url }}" class="post-item pinned">
+                              <div><span class="post-title small">  
+                                {{ related.title | escape }}
+                              </span><br/>
+                              {% unless related.date == empty %}
+                                <span class="post-meta-date post-meta">{{ related.date | date: date_format }}</span>
+                                <span class="post-meta-date post-meta-hrt-date post-meta"> {{ related.hrt_date}} </span>
+                                <span class="seperator">|</span>
+                              {% endunless %}
+                              {% unless related.author == empty %}
+                                <span class="post-meta-author post-meta">{{ related.author }}</span>
+                              {% endunless %}
+                              
+                              {%- if site.show_excerpts -%}
+                                {{ related.excerpt }}
+                              {%- endif -%} </div>
+                            </a>
+                            </li>
+                          </ul>
+                    {% endunless %}
+
+                    {% if relatedCount == 3 %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+              </div>
+            {% endif %}</div>
+        </div>
       </div>
     </main>
 
