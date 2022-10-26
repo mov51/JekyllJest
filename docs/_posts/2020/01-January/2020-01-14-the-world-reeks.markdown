@@ -4,6 +4,7 @@ title:  "The World Reeks"
 date:   2020-01-14 04-02 -0400
 hrt_date: -618
 categories: [Abstract, MindStyle]
+permalink: 2020/01_January/14/the-world-reeks
 author: mov51
 ---
 The world reeks of beautiful waste  

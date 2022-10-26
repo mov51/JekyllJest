@@ -4,7 +4,8 @@ title:  "Introducing the Same Old Me"
 date:   2021-06-29 09-44 -0400
 hrt_date: -451
 categories: [TheWorldScreams, WithMyVoice]
-author: Natalie
+permalink: 2021/6_June/29/introducing-the-same-old-me
+author: Natalie Aspen Trinket
 ---
 This is a topic that means a lot to me so I’ll be keeping it pinned to the top of my blog, and it would mean even more if you’d be willing to read what I have to say.
 

@@ -4,6 +4,7 @@ title:  "Life Over Time"
 date:   2020-03-22 02-30 -0400
 hrt_date: -550
 categories: [Abstract]
+permalink: 2020/03_March/22/life-over-time
 author: mov51
 ---
 Future defined in shock -- Minds all but lost  

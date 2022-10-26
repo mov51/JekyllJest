@@ -4,6 +4,7 @@ title:  "A Taste of Heat"
 date:   2019-10-16 08:00:00 -0400
 hrt_date: -708
 categories: [TheWorldScreams]
+permalink: 2019/10_October/16/a-taste-of-heat
 author: mov51
 ---
 

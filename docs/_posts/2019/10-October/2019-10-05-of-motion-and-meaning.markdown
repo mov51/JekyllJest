@@ -4,6 +4,7 @@ title:  "of Motion and Meaning"
 date:   2019-10-05 08:00:00 -0400
 hrt_date: -719
 categories: [TheWorldScreams]
+permalink: 2019/10_October/05/of-motion-and-meaning
 author: mov51
 ---
 The world screams of motion and meaning, of a story told in echos and shock waves. A sound contains more meaning than the information it conveys, but rather a whole scene laid out for the mind to interpret. A voice holds more than the person and the words, but the emotion and stance of the individual. The sound of a passing car can be more than an annoyance in a busy life, but can be a terrifying wind up as it nears a life altering moment.

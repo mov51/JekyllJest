@@ -4,6 +4,7 @@ title:  "My Transgender Self Discovery"
 date:   2021-06-29 09-44 -0400
 hrt_date: -451
 categories: [TheWorldScreams, WithMyVoice]
+permalink: 2021/6_June/29/my-transgender-self-discovery
 author: mov51
 ---
 > This is a simplified explanation of how I got to where I am today in regards to being transgender. As with most things in life, there’s more to it, but this hits the important points. It’s important to stress that this is not how everyone experiences it, and quite a few people get a lot more doubt about it than I did. I have my amazing Mom to thank for me being able to accept myself and my best friend MiniPixie for being there when I needed her. Suffice to say, I wrote this to emphasize the importance of accepting your friends and family, even if they’re not sure about what’s going on yet.  

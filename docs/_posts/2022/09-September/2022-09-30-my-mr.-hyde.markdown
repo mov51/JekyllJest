@@ -4,6 +4,7 @@ title:  "My Mr. Hyde"
 date:   2022-09-30 00:50-00 -0400
 hrt_date: 372
 categories: [MindStyle, WithMyVoice]
+permalink: 2022/9_September/30/my-mr-hyde
 author: Natalie Aspen Trinket
 ---
 I was reading The Strange Case of Dr. Jekyll and Mr. Hyde in June this year, and found that I related to the idea of bifurcating yourself and neglecting one half, only to be forced to face it later in life. I don't doubt in the slightest that people far smarter than me have gone over this part of the book in much greater detail, but I wanted to write about it myself anyway. A section of Dr. Jekyll's account in particular hits very close to home for me.  

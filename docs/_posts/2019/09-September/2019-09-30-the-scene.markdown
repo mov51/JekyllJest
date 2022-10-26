@@ -4,6 +4,7 @@ title: "The Scene"
 date: 2019-09-30 03:50:00 -0400
 hrt_date: -724
 categories: [TheWorldScreams]
+permalink: 2019/09_September/30/the-scene
 author: mov51
 ---
 

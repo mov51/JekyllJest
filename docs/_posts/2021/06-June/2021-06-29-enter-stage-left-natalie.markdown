@@ -4,6 +4,7 @@ title:  "Enter Stage Left, Natalie."
 date:   2021-06-29 06-00 -0400
 hrt_date: -451
 categories: [TheWorldScreams, WithMyVoice, Pinned]
+permalink: 2021/6_June/29/enter-stage-left-natalie
 author: Natalie
 ---
 I want you to imagine an alarm that constantly going off around you. It’s been there as long as you can remember and you’re the only one who can hear it. Every time you ask anyone else if they hear it, they look at you like you’re insane, dismiss your question, and move on.

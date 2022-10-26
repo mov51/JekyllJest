@@ -4,6 +4,7 @@ title:  "Dilute Our Words"
 date:   2022-10-11 15:15-00 -0400
 hrt_date: 383
 categories: [Abstract]
+permalink: 2022/10_October/23/dilute-our-words
 author: Natalie Aspen Trinket
 ---
 Dilute our words as generations pass,  

@@ -4,6 +4,7 @@ title:  "Rights of Nature"
 date:   2022-10-21 02:09-00 -0400
 hrt_date: 393
 categories: [MindStyle]
+permalink: 2022/10_October/21/rights-of-nature
 author: Natalie Aspen Trinket
 ---
 I'm going to ask you to follow me down a seemingly absurd train of thought that I had today while listening to a podcast about a particular preacher who feels that hurricanes don't have rights to anywhere inhabited by humans. While I don't think that she's considered how that actually works, I was just tired enough at the time to ask myself why it doesn't work that way. Why don't we give rights to the forces of nature that we fight against and that we're trying to protect at the same time?  

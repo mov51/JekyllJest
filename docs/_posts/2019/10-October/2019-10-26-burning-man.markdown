@@ -4,6 +4,7 @@ title:  "Burning Man"
 date:   2019-10-26 12-00 -0400
 hrt_date: -698
 categories: [Abstract]
+permalink: 2019/10_October/26/burning-man
 author: mov51
 ---
 A burning man feels no pain, only fire

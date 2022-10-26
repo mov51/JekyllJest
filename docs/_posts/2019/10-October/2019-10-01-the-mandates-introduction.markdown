@@ -4,6 +4,7 @@ title:  "The Mandates: Introduction"
 date:   2019-10-01 08:00:00 -0400
 hrt_date: -723
 categories: [TheMandates]
+permalink: 2019/10_October/01/the-mandates-introduction
 author: mov51
 ---
 

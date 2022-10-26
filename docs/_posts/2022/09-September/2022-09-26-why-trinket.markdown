@@ -4,6 +4,7 @@ title:  "Why Trinket?"
 date:   2022-09-26 9:20-00 -0400
 hrt_date: 368
 categories: [MindStyle]
+permalink: 2022/9_September/26/why-trinket
 author: Natalie Aspen Trinket
 ---
 Up to this point I've only been asked this question once, but a combination of the assumptions I can see being made and what it actually means to me makes me want to write something up in regards to my chosen last name, Trinket.

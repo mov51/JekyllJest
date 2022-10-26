@@ -4,6 +4,7 @@ title:  "In Different Tones"
 date:   2019-10-28 12-00 -0400
 hrt_date: -696
 categories: [MindStyle, TheWorldScreams]
+permalink: 2019/10_October/28/in-different-tones
 author: mov51
 ---
 The world screams in different tones. From the thoughts of fleshed minds comes the multi toned cacophony of need that permeates our world. We all desire something, those desires changing in intensity and focus every moment of every day throughout our lives. Desire fuels our actions and by those actions our next desire is defined, our thoughts formed by our surroundings.

@@ -4,6 +4,7 @@ title:  "The City of Clay"
 date:   2019-09-30 13:35:00 -0400
 hrt_date: -724
 categories: [Abstract]
+permalink: 2019/09_September/30/the-city-of-clay
 author: mov51
 ---
 The grand scale of such a place

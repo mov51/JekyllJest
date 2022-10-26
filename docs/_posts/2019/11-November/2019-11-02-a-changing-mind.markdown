@@ -4,6 +4,7 @@ title:  "A Changing Mind"
 date:   2019-11-02 12-00 -0400
 hrt_date: -691
 categories: [MindStyle]
+permalink: 2019/11_November/02/a-changing-mind
 author: mov51
 ---
 Time is strange, the changes it incites in the world happens at such a scale and is so ingrained in how we function that we can’t escape the limitations it imposes. As we travel forward with time its effects change both us and our environment. Moments pass and leave nothing unadjusted, everything altered by its incessant march. Growth and rot share this friend in common. Change over time a helping hand to all, both willing and mindless.

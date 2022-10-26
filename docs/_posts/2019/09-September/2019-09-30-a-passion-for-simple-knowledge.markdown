@@ -4,6 +4,7 @@ title:  "A Passion for Simple Knowledge"
 date:   2019-09-30 21:09:00 -0400
 hrt_date: -724
 categories: [TheWorldScreams]
+permalink: 2019/09_September/30/a-passion-for-simple-knowledge
 author: mov51
 ---
 Through me, the world screams.

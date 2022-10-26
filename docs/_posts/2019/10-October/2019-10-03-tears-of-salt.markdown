@@ -4,6 +4,7 @@ title:  "Tears of salt"
 date:   2019-10-03 12:00:00 -0400
 hrt_date: -721
 categories: [Abstract]
+permalink: 2019/10_October/03/tears-of-salt
 author: mov51
 ---
 Sweat these tears of salt  

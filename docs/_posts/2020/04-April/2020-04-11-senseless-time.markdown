@@ -4,6 +4,7 @@ title:  "Senseless Time"
 date:   2020-04-11 00-08 -0400
 hrt_date: -895
 categories: [Abstract, MindStyle, TheWorldScreams]
+permalink: 2020/04_April/11/senseless-time
 author: mov51
 ---
 As time goes by it becomes harder and harder to trust my senses, to know exactly how and why my body reacts to the world. My interpretation changes by the second and some days it’s impossible to keep up. Each sense working on a scale that changes with every new piece of information I gleam from it, a drastically fast kaleidoscope of broken images and feelings. Brighter lights, clearer sounds, sharper temperatures, and a swaying scope of scale attack me constantly, wearing at my view of the world. Each shift defines a whole new set of actions and reactions to reinvent, a constant game of mix and match, find the value, adjust and prefix.

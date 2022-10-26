@@ -4,6 +4,7 @@ title:  "The Morning of Fall"
 date:   2019-10-07 08:53:00 -0400
 hrt_date: -717
 categories: [Abstract]
+permalink: 2019/10_October/07/the-morning-of-fall
 author: mov51
 ---
 The very air reeks of rotting stone

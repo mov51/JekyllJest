@@ -4,6 +4,7 @@ title:  "The First Day"
 date:   2019-11-12 12-00 -0400
 hrt_date: -681
 categories: [The Mandates]
+permalink: 2019/11_November/12/the-first-day
 author: mov51
 ---
 The mandates have been a catch all for my dreams and aspirations for almost as long as I’ve had any sort of presence online. They were born of boredom on one of the early days of my first job, wandering around the parking lot thinking of a way to meld different stories. Essentially I was trying to figure out a way to build a world in which any character would fit. Seems like a simple idea, but the answer I came up with has a lot of ramifications.

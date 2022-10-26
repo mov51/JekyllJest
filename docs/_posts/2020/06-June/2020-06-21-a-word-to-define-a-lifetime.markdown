@@ -4,6 +4,7 @@ title:  "A Word to Define a Lifetime"
 date:   2020-06-21 02-44 -0400
 hrt_date: -824
 categories: [MindStyle]
+permalink: 2020/06_June/21/a-word-to-define-a-ifetime
 author: mov51
 ---
 When I was growing up I was ravenous for knowledge, and random pieces of information that I came across would be next obsession. Every week I was on a whole new topic, a completely different field of study. While I still retain a large portion of that hunger, to the extent that “Information Sponge” has come to be my de facto self-description, there has been a rather large change in a significant portion of my world view.  

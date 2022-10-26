@@ -4,6 +4,7 @@ title:  "Drawn Out"
 date:   2020-01-27 23-06 -0400
 hrt_date: -605
 categories: [Abstract]
+permalink: 2020/01_January/27/drawn-out
 author: mov51
 ---
 The world shakes  

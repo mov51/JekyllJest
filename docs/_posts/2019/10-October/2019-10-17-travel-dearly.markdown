@@ -4,6 +4,7 @@ title:  "Travel Dearly"
 date:   2019-10-17 08-00 -0400
 hrt_date: -707
 categories: [Abstract, MindStyle]
+permalink: 2019/10_October/17/travel-dearly
 author: mov51
 ---
 

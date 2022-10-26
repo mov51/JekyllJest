@@ -4,6 +4,7 @@ title:  "Why Minecraft means so much to Me."
 date:   2020-12-18 13-28 -0400
 hrt_date: -644
 categories: [MindStyle, Minecraft]
+permalink: 2020/12_December/18/why-minecraft-means-so-much-to-me
 author: mov51
 ---
 It’s been a while since I’ve made a blog post, but today Mojang released [a video](https://www.youtube.com/watch?v=7x0ZOB5UoSw) that really hit me and I wanted to get the words out while I had them. I would strongly recommend watching that video, it’s extremely short but it does a great job of capturing a person’s experience with Minecraft and their disability.  
