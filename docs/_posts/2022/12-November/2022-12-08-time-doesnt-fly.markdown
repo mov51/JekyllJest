@@ -2,8 +2,8 @@
 layout: post
 title:  "Time Doesn't Fly"
 date:   2022-12-08 09:55-00 -0400
-hrt_date: 432
-categories: [MindStyle]
+hrt_date: 441
+categories: [MindStyle, Abstract]
 permalink: 2022/12_December/08/time-doesnt-fly/
 author: Natalie Aspen Trinket
 ---
