@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #Site-Wide
-title: naspen.net
+title: naspen.mov
 email: mov51@naspen.net
 site_author: "Natalie Aspen Trinket"
 github_repo:  "https://github.com/theAspenGrove/JekyllJest"
