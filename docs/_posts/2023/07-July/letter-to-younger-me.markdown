@@ -2,7 +2,7 @@
 layout: post
 title: "A letter to younger me"
 date: 2023-07-11 01:20-00 -0500
-hrt_date: 494
+hrt_date: 656
 categories: [TheWorldScreams, WithMyVoice]
 permalink: 2023/07-July/11/A-Letter-To-Younger-Me
 author: Natalie Aspen Trinket
