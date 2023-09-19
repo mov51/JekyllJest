@@ -2,7 +2,7 @@
 layout: post
 title:  "Life Devoured"
 date:   2020-05-08 19-16 -0400
-hrt_date: -868
+hrt_date: -503
 categories: [Abstract]
 permalink: 2020/05_June/08/life-devoured
 author: mov51

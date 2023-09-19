@@ -2,7 +2,7 @@
 layout: post
 title:  "Audio processing with Mov"
 date:   2020-02-03 15-06 -0400
-hrt_date: -598
+hrt_date: -578
 categories: [MindStyle]
 permalink: 2020/02_Feburary/03/audio-processing-with-mov
 author: mov51

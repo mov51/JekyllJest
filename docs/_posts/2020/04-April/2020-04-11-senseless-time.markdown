@@ -2,7 +2,7 @@
 layout: post
 title:  "Senseless Time"
 date:   2020-04-11 00-08 -0400
-hrt_date: -895
+hrt_date: -530
 categories: [Abstract, MindStyle, TheWorldScreams]
 permalink: 2020/04_April/11/senseless-time
 author: mov51

@@ -2,7 +2,7 @@
 layout: post
 title:  "My Stance on Transgender Debates"
 date:   2021-06-29 06-00 -0400
-hrt_date: -451
+hrt_date: -86
 categories: [Info]
 permalink: 2021/6_June/29/my-stance-on-transgender-debates
 author: Natalie

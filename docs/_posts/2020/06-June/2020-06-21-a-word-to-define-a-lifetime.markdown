@@ -2,7 +2,7 @@
 layout: post
 title:  "A Word to Define a Lifetime"
 date:   2020-06-21 02-44 -0400
-hrt_date: -824
+hrt_date: -459
 categories: [MindStyle]
 permalink: 2020/06_June/21/a-word-to-define-a-ifetime
 author: mov51

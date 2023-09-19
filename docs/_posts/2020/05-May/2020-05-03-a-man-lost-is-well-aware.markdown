@@ -2,7 +2,7 @@
 layout: post
 title:  "A Man Lost is Well Aware"
 date:   2020-05-03 21-02 -0400
-hrt_date: -873
+hrt_date: -508
 categories: [Abstract]
 permalink: 2020/05_June/03/a-man-lost-is-well-aware
 author: mov51

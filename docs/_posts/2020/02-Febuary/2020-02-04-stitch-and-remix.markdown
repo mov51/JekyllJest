@@ -2,7 +2,7 @@
 layout: post
 title:  "Stitch and Remix"
 date:   2020-02-04 08-00 -0400
-hrt_date: -597
+hrt_date: -577
 categories: [Abstract]
 permalink: 2020/02_Feburary/04/stitch-and-remix
 author: mov51

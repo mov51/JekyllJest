@@ -2,7 +2,7 @@
 layout: post
 title:  "A Life of Clay"
 date:   2020-06-17 06-14 -0400
-hrt_date: -828
+hrt_date: -463
 categories: [Abstract, MindStyle]
 permalink: 2020/06_June/17/a-life-of-clay
 author: mov51
