@@ -1,0 +1,21 @@
+details {
+    summary{
+        font-size: large;
+        font-weight: bold;
+        margin: 3px 0px; 
+        padding: 4px;
+        color: $background-color;
+    }
+    div{
+        border-top: 3px solid $text-color;
+        margin: 0;
+        padding: 8px;
+        p{
+            margin: 0;
+        }
+    }
+    background-color: $orange-color;
+    border: 6px solid $text-color;
+    margin-bottom: 1rem;
+    color: $text-color;
+  }

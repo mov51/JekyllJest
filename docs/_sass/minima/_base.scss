@@ -106,9 +106,9 @@ h1, h2, h3, h4, h5, h6 {
  */
  a{
   color: $text-color;
-  text-decoration: none;
+  text-decoration: underline;
   &:hover{
-    text-decoration: none;
+    text-decoration: underline;
     color: $green-color;
     &:visited{
       color: $green-color;
@@ -151,6 +151,7 @@ code {
 
 code {
   padding: 1px 5px;
+  color: $background-color;
 }
 
 pre {

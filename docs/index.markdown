@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is a place for my collections of lost things, trinkets, memories, and notes. Where I post my blogs, found under the feed, and have some landing pages for other content I have. 
